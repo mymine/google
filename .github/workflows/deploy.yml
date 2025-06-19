@@ -40,5 +40,5 @@ jobs:
           project: "mine-google-84"
           entrypoint: "jsr:@deno/nextjs-start/v15"
           root: "."
-          include: .next, public
+          
           
